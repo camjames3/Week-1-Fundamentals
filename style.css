@@ -1,0 +1,16 @@
+h1 {
+    color: #da2727;
+    font-size: 2rem;
+    text-align: center;
+}
+
+p {
+    color: #221cca;
+    line-height: 1.6;
+}
+
+ul {
+    background: #00fbff;
+    padding: 15px;
+    border-radius: 8px;
+}
